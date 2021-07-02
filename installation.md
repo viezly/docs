@@ -11,4 +11,4 @@ Then press install
 And that's it! Viezly is installed.
 Now Viezly will analyse all new pull requests opened in selected repositories and will post a comment with details.
 
-NOTE: existing pull requests will be analysed only when new commit is pushed to it.
+> NOTE: existing pull requests will be analysed only when new commit is pushed to it.
