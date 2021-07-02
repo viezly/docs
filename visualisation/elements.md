@@ -21,7 +21,8 @@ File isn't changed:
 
 ## Folders
 
-TBD
+A folder corresponds to a file-system folder:  
+![folder](_media/elements/folder.png ':size=250')
 
 ## Relations
 
