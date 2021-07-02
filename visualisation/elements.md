@@ -25,9 +25,10 @@ TBD
 
 ## Relations
 
-A relation between files is either an import (e.g. JS) or the entity, declared in one file, being used in another file 
-(e.g. class declared in one file is used in another file).  
 The relations between files are represented as the arrows of appropriate color.
+
+> A relation between files is either an import (e.g. JS) or the entity, declared in one file, being used in another file 
+(e.g. class declared in one file is used in another file).  
 
 New relation between files:  
 ![new relation](_media/elements/added_relation.png ':size=150')
