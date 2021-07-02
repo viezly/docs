@@ -7,17 +7,20 @@ All elements of a diagram can be divided in 3 groups:
 
 ## Files
 
-A new file:  
+A new file is displayed as a green block:  
 ![added file](_media/elements/added_file.png ':size=150')
 
-Changed file:  
+A changed file is displayed as an orange block:  
 ![changed file](_media/elements/changed_file.png ':size=150')
 
-Removed file:  
+A removed file is displayed as a red block:  
 ![removed file](_media/elements/removed_file.png ':size=150')
 
-File isn't changed:  
+A file without changes is displayed as a gray block:  
+> Such file may appear if there are new/removed relations to it from new/changed files
+
 ![non-changed file](_media/elements/existing_file.png ':size=150')
+
 
 ## Folders
 
