@@ -1,11 +1,11 @@
 # Elements
 
-All elements of a diagram can be divided in 3 groups:
-- files
-- folders
-- relations
+We aim to make diagram elements intuitive as much as possible, so most of them should be understood from the first look.  
+Nevertheless, we created this page to give you a full overview of all elements you can find in diagrams.
 
 ## Files
+
+The files are the core of each diagram. They are displayed as blocks of different colors depending on their status.
 
 A new file is displayed as a green block:  
 ![added file](_media/elements/added_file.png ':size=150')
