@@ -3,5 +3,5 @@
 * Diagram
     * [Elements](elements.md)
 * [Pricing](pricing.md)
-    * [Packages](packages.md)
-    * [Package Configuration](package_configuration.md)
+    * [Plans](plans.md)
+    * [Plan Configuration](plan_configuration.md)

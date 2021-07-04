@@ -1,6 +1,6 @@
-# Packages
+# Plans
 
-> Every package includes **2 weeks free trial**.
+> Every plan includes **2 weeks free trial**.
 
 ## Open Source
 
