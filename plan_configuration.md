@@ -16,4 +16,6 @@ You should be navigated to project plan page:
 
 At project plan page you can see active plan, the amount paid per month and date of the payment, trial days left.
 
-Choose a plan. You can change it at any time.
+Choose a plan. You can change it at any time.  
+
+That's it! Configuration finished. Enjoy!
