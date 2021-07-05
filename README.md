@@ -1,17 +1,17 @@
 # Introduction
 
-Viezly is the newest code-review tool with visualisation at it's core.
+Viezly is the code-review tool with visualization at its core.
 
 ## How Viezly can help me?
 
 Viezly provides a number of unique features which help you to review pull requests.  
-Most significant of them are:
-- visualisation 
-- representation of dependencies between changed files
-- splitting big pull requests into subset of smaller parts 
+The most significant of them are:
+- visualization 
+- dependencies between changed files
+- splitting big pull requests into a subset of smaller parts 
 - handy and meaningful navigation across changed files
 
-Of course, we support all basic features required to perform a code-review: comments, review submission and much more.
+Of course, we support all basic features required to perform a code review: comments, review submission, and much more.
 
 ## Enough words - show me a demo!
 
