@@ -19,7 +19,7 @@ Check out our demo pull-request [here](https://github.com/viezly/js-demo/pull/1)
 
 ## Is it free?
 
-Not quite. There are free plans as well, so check out our [pricing page](pricing.md) to get the details.
+Not quite. There are free plans as well, so check out our [plans page](/billing#plans) to get the details.
 
 ## Ready to give it a try?
 
