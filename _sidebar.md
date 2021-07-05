@@ -1,5 +1,6 @@
-* [Home](/)
+* [Introduction](/)
 * [Installation](installation.md)
+* [Usage](usage.md)
 * Diagram
     * [Elements](elements.md)
 * [Pricing](pricing.md)
