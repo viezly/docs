@@ -33,7 +33,7 @@ A file without changes is displayed as a gray block:
 
 ------
 
-The file with `tied` files.
+###### The file with `tied` files.
 
 > A `tied` file is a file which is highly bound with the original file and won't exist without it. 
 > The examples are the unit tests for particular class, styles of particular component in separate file.
