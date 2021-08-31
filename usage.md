@@ -26,11 +26,11 @@ Click on a file open a Git diff for this file:
 
 And besides the clicked file's diff, the Viezly shows diffs of dependent files and diffs of [tied files](elements#the-file-with-tied-files). As you can see on the screenshot, there is a diff for `index.ts` and diffs for all the dependencies.
 
-To dig further into dependencies you can close this diff and click on another file. **Or** you can click on the blue arrow. That arrow opens a diff of the dependent file as a "main" file with diffs of its dependencies listed below.
+To dig further into dependencies you can click on the black arrow in the side-menu. That arrow opens a diff of the dependent file as a "main" file with diffs of its dependencies listed below.
 
-![blue-arrow](_media/usage/blue-arrow.png)
+![blue-arrow](_media/usage/file_navigation.png)
 
-Let say we want to see the dependencies of the `simple.ts` file. Click on the blue arrow open to its diff.
+Let say we want to see the dependencies of the `simple.ts` file. Click the black arrow to open its diff.
 
 ![simple-ts-diff](_media/usage/simple-ts-diff.png)
 
