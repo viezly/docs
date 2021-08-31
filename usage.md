@@ -28,7 +28,7 @@ And besides the clicked file's diff, the Viezly shows diffs of dependent files a
 
 To dig further into dependencies you can click on the black arrow in the side-menu. That arrow opens a diff of the dependent file as a "main" file with diffs of its dependencies listed below.
 
-![blue-arrow](_media/usage/file_navigation.png)
+![blue-arrow](_media/usage/file_navigation.png ':size=600')
 
 Let say we want to see the dependencies of the `simple.ts` file. Click the black arrow to open its diff.
 
