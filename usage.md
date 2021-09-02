@@ -26,19 +26,19 @@ Click on a file open a Git diff for this file:
 
 And besides the clicked file's diff, the Viezly shows diffs of dependent files and diffs of [tied files](elements#the-file-with-tied-files). As you can see on the screenshot, there is a diff for `index.ts` and diffs for all the dependencies.
 
-To dig further into dependencies you can click on the black arrow in the side-menu. That arrow opens a diff of the dependent file as a "main" file with diffs of its dependencies listed below.
+To dig further into dependencies you can click on the arrow near the file name in the side-menu. That arrow opens a diff of the selected file as a "main" file with diffs of its dependencies listed below.
 
 ![blue-arrow](_media/usage/file_navigation.png ':size=600')
 
-Let say we want to see the dependencies of the `simple.ts` file. Click the black arrow to open its diff.
+Let say we want to see the dependencies of the `simple.ts` file. Click the arrow to open its diff.
 
 ![simple-ts-diff](_media/usage/simple-ts-diff.png)
 
 Here you can see the diff of `simple.ts` with diffs of its dependencies *(apparently there are no changed dependencies for this particular file in the pull request)*.
 
-On the top-left corner, you can see the "history" tabs. All the previously opened files are shown here as filenames. To go back to the `index.ts` file click on its name in the "history" tabs.
+To go back to the initial `index.ts` file click on the arrow near its name.
 
-![history-tab](_media/usage/history-tab.png)
+![history-tab](_media/usage/file_back.png)
 
 
 

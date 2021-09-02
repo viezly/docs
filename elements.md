@@ -25,14 +25,6 @@ A removed file is displayed as a red block:
 
 ------
 
-A file without changes is displayed as a gray block:  
-
-> Such file may appear if there are new/removed relations to it from new/changed files
-
-![non-changed file](_media/elements/existing_file.png ':size=200')
-
-------
-
 ###### The file with `tied` files.
 
 > A `tied` file is a file which is highly bound with the original file and won't exist without it. 

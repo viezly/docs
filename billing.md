@@ -9,9 +9,6 @@ Check out our [plan configuration guide](#plan-configuration).
 
 !> If you don't select a plan Viezly will stop pull-request processing after the trial period.
 
-> We charge clients by issuing an invoice through Payoneer to admin email.
-
-
 
 ## Plan configuration
 
@@ -31,7 +28,9 @@ You should be navigated to project plan page:
 
 At project plan page you can see active plan, the amount paid per month and date of the payment, trial days left.
 
-Choose a plan. You can change it at any time.  
+Choose a plan.  
+You will be asked for credit card and other details required by payment system. We don't store that data.  
+After that you will be charged by subscription amount monthly.
 
 That's it! Configuration finished. Enjoy!
 
