@@ -38,7 +38,7 @@ Here you can see the diff of `simple.ts` with diffs of its dependencies *(appare
 
 To go back to the initial `index.ts` file click on the arrow near its name.
 
-![history-tab](_media/usage/file_back.png)
+![history-tab](_media/usage/file_back.png ':size=600')
 
 
 
