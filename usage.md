@@ -13,7 +13,7 @@ And the first thing you can see in it is a diagram:
 
 <div style="text-align: center">
 
-*[Here is a link](https://viezly.com/change_requests/3986#/diagrams/3) to the example described further in this documentation.*
+*[Here is a link](https://viezly.com/change_requests/3986) to the example described further in this documentation.*
 
 </div>
 
@@ -32,7 +32,7 @@ Click on a file opens a Git diff for this file:
 ![file-diff](_media/usage/file-diff.png)
 
 And besides the clicked file's diff, the Viezly shows diffs of dependent files and diffs of [tied files](elements#the-file-with-tied-files). You can see the list of them in the left side-menu.   
-Check it yourself [here](https://viezly.com/change_requests/3986#/diagrams/3/diffs/d2Vic2l0ZS9zcmMvQXBwLmpz) to observe that in real life.
+Check it yourself [here](https://viezly.com/change_requests/3986#/diagrams/0/diffs/d2Vic2l0ZS9zcmMvQXBwLmpz) to observe that in real life.
 
 To dig further into dependencies you can click on the arrow near the file name in the side-menu. That arrow opens a diff of the selected file as a "main" file with diffs of its dependencies listed below.
 
