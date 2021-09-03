@@ -19,7 +19,7 @@ Check out our demo pull-request [here](https://viezly.com/change_requests/3986#/
 
 ## Is it free?
 
-Not quite. There are free plans as well, so check out our [plans page](/billing#plans) to get the details.
+We have free plans for Open Source or personal usage. Check out our [plans page](/billing#plans) to get the details.
 
 ## Ready to give it a try?
 
