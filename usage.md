@@ -11,7 +11,11 @@ And the first thing you can see in it is a diagram:
 
 ![interface-overview-page](_media/usage/interface-overview.png)
 
+<div style="text-align: right">
+
 *[Here is a link](https://viezly.com/change_requests/3986#/diagrams/3) to the example described further in this documentation.*
+
+</div>
 
 The diagram shows folders with files and dependencies between files. More details about the notation you can [read here](/elements#elements). Dependencies between files allow you to see the entry point in this pull request and start your review from it.
 
