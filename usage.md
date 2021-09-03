@@ -11,7 +11,7 @@ And the first thing you can see in it is a diagram:
 
 ![interface-overview-page](_media/usage/interface-overview.png)
 
-<div style="text-align: right">
+<div style="text-align: center">
 
 *[Here is a link](https://viezly.com/change_requests/3986#/diagrams/3) to the example described further in this documentation.*
 
