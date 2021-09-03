@@ -15,7 +15,7 @@ Of course, we support all basic features required to perform a code review: comm
 
 ## Enough words - show me a demo!
 
-Check out our demo pull-request [here](https://github.com/viezly/js-demo/pull/1).
+Check out our demo pull-request [here](https://viezly.com/change_requests/3986#/diagrams/3).
 
 ## Is it free?
 
