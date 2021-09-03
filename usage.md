@@ -23,7 +23,7 @@ In this pull request, you can see several not-interdependent files and `App.js` 
 
 ## File diff
 
-Click on a file open a Git diff for this file:
+Click on a file opens a Git diff for this file:
 
 ![file-diff](_media/usage/file-diff.png)
 
@@ -54,7 +54,8 @@ Diagram navigation is located on the left side of the interface:
 
 ![diagram-navigation](_media/usage/diagram-navigation.png)
 
-Here you can see the list of all diagrams for this pull request. Every item contains a shortlist of folders, that is affected in each diagram. To go to the next diagram just click on the diagram item on the navigation.
+Here you can see the list of all diagrams for this pull request. Every item contains a shortlist of folders, that is affected in each diagram.  
+To go to the next diagram just click on the diagram item on the navigation.
 
 Here is a second diagram for the example pull request:
 
