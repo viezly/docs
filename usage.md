@@ -6,15 +6,18 @@ Viezly offers a review interface that is based on dependencies between files. Yo
 
 ## Diagram
 
-After the [installation](/installation#installation), for every pull request, Viezly generates a link to a review interface. And the first thing you can see in it is a diagram:
+After the [installation](/installation#installation), for every pull request, Viezly generates a link to a review interface.  
+And the first thing you can see in it is a diagram:
 
 ![interface-overview-page](_media/usage/interface-overview.png)
 
+*[Here is a link](https://viezly.com/change_requests/3986#/diagrams/3) to the example described further in this documentation.*
+
 The diagram shows folders with files and dependencies between files. More details about the notation you can [read here](/elements#elements). Dependencies between files allow you to see the entry point in this pull request and start your review from it.
 
-In this pull request, you can see several not-interdependent Vue-files and `index.ts` file with 4 dependencies. So the best way to start a review is to see the diff of `index.ts`. To do that click on this file on the diagram:
+In this pull request, you can see several not-interdependent files and `App.js` file with 4 dependencies. So the best way to start a review is to see the diff of `App.js`. To do that click on this file on the diagram:
 
-![block-click](_media/usage/block-click.png)
+![block-click](_media/usage/block-click.png ':size=300')
 
 
 
@@ -24,19 +27,20 @@ Click on a file open a Git diff for this file:
 
 ![file-diff](_media/usage/file-diff.png)
 
-And besides the clicked file's diff, the Viezly shows diffs of dependent files and diffs of [tied files](elements#the-file-with-tied-files). As you can see on the screenshot, there is a diff for `index.ts` and diffs for all the dependencies.
+And besides the clicked file's diff, the Viezly shows diffs of dependent files and diffs of [tied files](elements#the-file-with-tied-files). You can see the list of them in the left side-menu.   
+Check it yourself [here](https://viezly.com/change_requests/3986#/diagrams/3/diffs/d2Vic2l0ZS9zcmMvQXBwLmpz) to observe that in real life.
 
 To dig further into dependencies you can click on the arrow near the file name in the side-menu. That arrow opens a diff of the selected file as a "main" file with diffs of its dependencies listed below.
 
 ![blue-arrow](_media/usage/file_navigation.png ':size=600')
 
-Let say we want to see the dependencies of the `simple.ts` file. Click the arrow to open its diff.
+Let say we want to see the dependencies of the `areEqual.js` file. Click the arrow to open its diff.
 
-![simple-ts-diff](_media/usage/simple-ts-diff.png)
+![simple-ts-diff](_media/usage/file-dependency-diff.png)
 
-Here you can see the diff of `simple.ts` with diffs of its dependencies *(apparently there are no changed dependencies for this particular file in the pull request)*.
+Here you can see the diff of `areEqual.js` with diffs of its dependencies.
 
-To go back to the initial `index.ts` file click on the arrow near its name.
+To go back to the initial `App.js` file click on the arrow near its name.
 
 ![history-tab](_media/usage/file_back.png ':size=600')
 
@@ -54,7 +58,7 @@ Here you can see the list of all diagrams for this pull request. Every item cont
 
 Here is a second diagram for the example pull request:
 
-![2nd-diagram](_media/usage/2nd-diagram.png)
+![2nd-diagram](_media/usage/another-diagram.png)
 
 
 
