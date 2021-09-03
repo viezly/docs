@@ -52,7 +52,7 @@ If the pull request contains more than 15 blocks on a single diagram, Viezly spl
 
 Diagram navigation is located on the left side of the interface:
 
-![diagram-navigation](_media/usage/diagram-navigation.png)
+![diagram-navigation](_media/usage/diagram-navigation.png ':size=600')
 
 Here you can see the list of all diagrams for this pull request. Every item contains a shortlist of folders, that is affected in each diagram.  
 To go to the next diagram just click on the diagram item on the navigation.
